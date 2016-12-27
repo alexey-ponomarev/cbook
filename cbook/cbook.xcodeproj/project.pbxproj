@@ -360,7 +360,7 @@
 				2FFB36D71E12C88D001D39D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		2FFB36D81E12C88D001D39D9 /* Build configuration list for PBXNativeTarget "cbook" */ = {
 			isa = XCConfigurationList;
@@ -369,6 +369,7 @@
 				2FFB36DA1E12C88D001D39D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
 		};
 		2FFB36E31E12C89A001D39D9 /* Build configuration list for PBXNativeTarget "helloworld" */ = {
 			isa = XCConfigurationList;
@@ -377,6 +378,7 @@
 				2FFB36E51E12C89A001D39D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
 		};
 		2FFB36F01E12C999001D39D9 /* Build configuration list for PBXNativeTarget "fahrenheit" */ = {
 			isa = XCConfigurationList;
@@ -385,6 +387,7 @@
 				2FFB36F21E12C999001D39D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
